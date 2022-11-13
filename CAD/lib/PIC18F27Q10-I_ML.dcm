@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F27Q10-I_ML
+D 8-bit Microcontrollers - MCU 128KB Flash, 3.6KB RAM, 1024B EEPROM, 10b ADC2, 5b DAC, Comp, PWM, CCP, CWG, HLT, WWDT, SCAN/CRC, ZCD, PPS, EUSART, SPI/I2C, IDLE/DOZE/PMD
+K
+F https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf
+$ENDCMP
+#
+#End Doc Library

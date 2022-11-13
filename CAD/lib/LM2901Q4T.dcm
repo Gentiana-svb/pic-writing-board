@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2901Q4T
+D Analog Comparators 1.1mA Low Power Quad 25nA 250mV
+K
+F https://www.st.com/resource/en/datasheet/lm2901.pdf
+$ENDCMP
+#
+#End Doc Library

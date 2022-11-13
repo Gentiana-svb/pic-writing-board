@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TMUX1309BQBR
+#/13391237/212618/2.49/17/3/Integrated Circuit
+DEF TMUX1309BQBR IC 0 30 Y Y 1 F N
+F0 "IC" 850 600 50 H V L CNN
+F1 "TMUX1309BQBR" 850 500 50 H V L CNN
+F2 "TMUX1309BQBR" 850 400 50 H I L CNN
+F3 "" 850 300 50 H I L CNN
+F4 "Multiplexer Switch ICs 2-channel, 4:1 general-purpose analog multiplexer with 1.8-V logic control" 850 200 50 H I L CNN "Description"
+F5 "0.8" 850 100 50 H I L CNN "Height"
+F6 "595-TMUX1309BQBR" 850 0 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1309BQBR?qs=hd1VzrDQEGgN4lN7jPkb7w%3D%3D" 850 -100 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -200 50 H I L CNN "Manufacturer_Name"
+F9 "TMUX1309BQBR" 850 -300 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X S4 1 400 600 200 D 50 50 0 0 P
+X S6 2 0 0 200 R 50 50 0 0 P
+X D 3 0 -100 200 R 50 50 0 0 P
+X S7 4 0 -200 200 R 50 50 0 0 P
+X S5 5 0 -300 200 R 50 50 0 0 P
+X ~EN 6 0 -400 200 R 50 50 0 0 P
+X N.C. 7 0 -500 200 R 50 50 0 0 N
+X GND 8 400 -1100 200 U 50 50 0 0 P
+X A2 9 500 -1100 200 U 50 50 0 0 P
+X A1 10 1000 -500 200 L 50 50 0 0 P
+X A0 11 1000 -400 200 L 50 50 0 0 P
+X S3 12 1000 -300 200 L 50 50 0 0 P
+X S0 13 1000 -200 200 L 50 50 0 0 P
+X S1 14 1000 -100 200 L 50 50 0 0 P
+X S2 15 1000 0 200 L 50 50 0 0 P
+X VDD 16 600 600 200 D 50 50 0 0 P
+X EP 17 500 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 800 400 800 -900 200 -900 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library
