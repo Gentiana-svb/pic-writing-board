@@ -24,3 +24,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# backup files
+CAD/pic-writing-board-backups
+
+# setting files
+*.kicad_prl
