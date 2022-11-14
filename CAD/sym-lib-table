@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name "LM2901Q4T")(type "Legacy")(uri "${KIPRJMOD}/lib/LM2901Q4T.lib")(options "")(descr ""))
   (lib (name "PIC18F27Q10-I_ML")(type "Legacy")(uri "${KIPRJMOD}/lib/PIC18F27Q10-I_ML.lib")(options "")(descr ""))
-  (lib (name "TMUX1309BQBR")(type "Legacy")(uri "${KIPRJMOD}/lib/TMUX1309BQBR.lib")(options "")(descr ""))
+  (lib (name "TMUX1309BQBR")(type "KiCad")(uri "${KIPRJMOD}/lib/TMUX1309BQBR.kicad_sym")(options "")(descr ""))
   (lib (name "TCP8407")(type "KiCad")(uri "${KIPRJMOD}/lib/TCP8407.kicad_sym")(options "")(descr ""))
 )
